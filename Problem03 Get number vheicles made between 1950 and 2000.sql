@@ -1,2 +1,2 @@
-﻿select count(*) as NumberOfVehicles from VehicleDetails
-where Year between 1950 and 2000
+﻿select count(*) as numberofvehicles from vehicledetails
+where year between 1950 and 2000
